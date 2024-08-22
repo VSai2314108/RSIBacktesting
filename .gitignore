@@ -1,0 +1,9 @@
+.venv/
+backtests/
+.vscode/
+__pycache__/
+.idea/
+.DS_Store
+config.json
+
+
